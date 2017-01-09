@@ -45,8 +45,8 @@ Please use the Github issue tracker to report problems
 
 # Contact
 
-Email: oulman@outlook.com
-Twitter: @oulman
+* Email: oulman@outlook.com
+* Twitter: @oulman
 
 
 
