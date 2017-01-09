@@ -3,6 +3,13 @@
 
 The AADLicensingHelper is a collection of functions I find useful for working with the AzureAD Powershell Module 2.0. 
 
+# Prerequisites 
+
+* AzureAD Powershell v2
+```
+Install-Module AzureAD
+```
+
 # Howto
 
 Setting up.
