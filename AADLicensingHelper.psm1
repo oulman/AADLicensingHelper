@@ -104,7 +104,5 @@ param (
     }
 }
 
-Export-ModuleMember -Function Test-ServicePlanDisabledInSku
-Export-ModuleMember -Function Get-SkuFromServicePlanId
 Export-ModuleMember -Function Get-AADUserAssignedPlans
 
